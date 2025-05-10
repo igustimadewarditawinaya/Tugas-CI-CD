@@ -1,1 +1,1 @@
-print('Hello ini merupakan project latihan untuk CI/CD')
+print('Hello Saya Developer B')
